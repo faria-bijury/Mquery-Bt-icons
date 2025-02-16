@@ -1,0 +1,28 @@
+*body{
+	margin:0;
+}
+.images{
+	padding: 50px 0;
+}
+.container{
+	margin: 0 auto;
+	width: 960px;
+	border: 1px solid red;
+	overflow: hidden;
+}
+.img_item{
+	box-sizing: border-box;
+	float:left;
+	width: 25%;
+	padding: 3px 3px;
+}
+.img_item img{
+	width: 100%;
+}
+.bi-volume-up-fill{
+	color: blue;
+    font-size: 32px;
+    border: 1px solid green;
+    text-align: center;
+}
+
